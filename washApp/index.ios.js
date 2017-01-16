@@ -15,11 +15,12 @@ import {
 } from 'react-native';
 
 import Login from './components/Login';
+import ProfileName from './components/ProfileName';
 
 export default class washApp extends Component {
   render() {
     return (
-      <Login />
+      <ProfileName />
     );
   }
 }

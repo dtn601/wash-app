@@ -28,5 +28,3 @@ const styles = StyleSheet.create({
     backgroundColor: '#F5FCFF',
   }
 });
-
-AppRegistry.registerComponent('washApp', () => washApp);
